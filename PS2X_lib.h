@@ -2,7 +2,7 @@
 *  Super amazing PS2 controller Arduino Library v1.8
 *		details and example sketch: 
 *			http://www.billporter.info/?p=240
-*
+*xccxcx
 *    Original code by Shutter on Arduino Forums
 *
 *    Revamped, made into lib by and supporting continued development:
